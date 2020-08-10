@@ -1,11 +1,11 @@
 require('dotenv/config');
-const Telegraf = require('telegraf');
-const { rastro } = require('rastrojs');
 
+const { rastro } = require('rastrojs');
 const messageToArray = require('./utils/messageToArray');
 const replyWithTrackingCodeData = require('./replyWithTrackingCodeData');
+const CreateBot = require('./config/createBot');
 
-const bot = new Telegraf(process.env.BOT_TOKEN);
+const bot = CreateBot();
 
 bot.start((ctx) => ctx.reply("Hello"));
 
