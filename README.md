@@ -9,7 +9,7 @@
   <a href="#information_source-como-rodar-a-aplicação">Como rodar a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#bookmark-comandos">Comandos</a>
   <br><br>
-  <img src="https://im2.ezgif.com/tmp/ezgif-2-ef1192c5374e.gif">
+  <img src="https://user-images.githubusercontent.com/51488383/89823573-b2e45900-db1f-11ea-86d6-225fb3d4c652.gif">
 </p>
 <br><br>
 
