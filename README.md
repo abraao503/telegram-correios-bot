@@ -50,6 +50,7 @@ Instale as dependências e rode o projeto utilizando o NPM.
 npm install
 npm run dev
 ```
+#### Ou
 
 Instale as dependências e rode o projeto utilizando o Yarn.
 ```bash
