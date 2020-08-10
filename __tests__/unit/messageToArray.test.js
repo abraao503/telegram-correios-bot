@@ -1,4 +1,4 @@
-const messageToArray = require('../../src/messageToArray');
+const messageToArray = require('../../src/utils/messageToArray');
 
 describe('generation of tracking code array', ()  => {
   it('should return an array with unique tracking code when receive a user message', () => {
