@@ -5,11 +5,13 @@
   "license": "MIT",
   "scripts": {
     "dev": "nodemon src/index.js",
+    "start": "node src/index.js",
     "test": "jest"
   },
   "dependencies": {
     "axios": "^0.19.2",
     "dotenv": "^8.2.0",
+    "moment": "^2.27.0",
     "rastrojs": "^1.1.0",
     "telegraf": "^3.38.0"
   },
