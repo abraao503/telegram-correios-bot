@@ -6,6 +6,7 @@ function CreateBot(){
   if(process.env.NODE_ENV === 'production'){
     bot.telegram.setWebhook(`${process.env.URL}/bot${process.env.BOT_TOKEN}`);
     bot.startWebhook(`/bot${process.env.BOT_TOKEN}`, null, process.env.PORT);
+    console.log(process.env.URL);
   }
 
   return bot;
