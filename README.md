@@ -58,4 +58,4 @@ yarn
 yarn dev
 ```
 ## :bookmark: Comandos
-Para verificar os estados das encomendas adicione códigos de rastreio com `/track CODIGO1 CODIGO2 CODIGO3...`. Obeserve que o bot aceita vários códigos em um mesmo comando, desde de que exista um espaço antes de cada código.
+Para verificar os estados das encomendas adicione códigos de rastreio com `/track CODIGO1 CODIGO2 CODIGO3...`. Observe que o bot aceita vários códigos em um mesmo comando, desde de que exista um espaço antes de cada código.
